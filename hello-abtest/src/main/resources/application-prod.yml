@@ -1,0 +1,6 @@
+# abtest.hackle.sdk.server.key
+abtest:
+  hackle:
+    sdk:
+      server:
+        key: ${PROD_KEY}
